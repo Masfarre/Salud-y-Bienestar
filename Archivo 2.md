@@ -2,8 +2,7 @@
 
 Hacer ejercicio en casa se ha convertido en una excelente opción para mantenerse activo sin necesidad de ir al gimnasio. A continuación, te presentamos una guía sobre cómo hacerlo efectivamente.
 
-![Ejercicio en Casa](https://www.ictiva.com/blog/wp-content/uploads/2020/11/Formas-de-hacer-ejercicio-sin-salir-de-casa.jpg)
-
+<img src="https://www.ictiva.com/blog/wp-content/uploads/2020/11/Formas-de-hacer-ejercicio-sin-salir-de-casa.jpg" alt="Ejercicio en casa" width="600" />
 ## Beneficios del Ejercicio en Casa
 
 - **Comodidad**: No necesitas salir de casa ni preocuparte por el tráfico.
@@ -28,7 +27,7 @@ Puedes realizar ejercicios cardiovasculares sin necesidad de equipo. Algunas opc
 - **Correr en el lugar** (Running in place)
 - **Burpees**
 
-![Ejercicio Cardio](https://www.infisport.com/media/amasty/blog/EntrenamientoCardioCasa1copia.jpg)
+<img src="https://www.infisport.com/media/amasty/blog/EntrenamientoCardioCasa1copia.jpg" alt="Ejercicio Cardio" width="600" />
 
 [Descubre una rutina de cardio en casa](https://www.youtube.com/watch?v=example)
 
